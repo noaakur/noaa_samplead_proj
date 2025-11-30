@@ -1,0 +1,366 @@
+{
+    "b16dca0d-e714-4a4b-aa63-f07073f751d3": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "af9df763-a39c-4504-b760-0835db232d52": {
+      "location_include": ["EMEA"],
+      "location_exclude": null
+    },
+    "07548ae5-846d-4749-b831-00d4bb818974": {
+      "location_include": ["US", "US-AZ", "US-CA", "US-DC", "US-ID", "US-NV", "US-OR", "US-UT", "US-WA"],
+      "location_exclude": ["US-AK", "US-AL", "US-AR", "US-CO", "US-CT", "US-DE", "US-FL", "US-GA", "US-HI", "US-IA", "US-IL", "US-IN", "US-KS", "US-KY", "US-LA", "US-MA", "US-MD", "US-ME", "US-MI", "US-MN", "US-MO", "US-MS", "US-MT", "US-NC", "US-ND", "US-NE", "US-NH", "US-NJ", "US-NM", "US-NY", "US-OH", "US-OK", "US-PA", "US-RI", "US-SC", "US-SD", "US-TN", "US-TX", "US-VA", "US-VT", "US-WI", "US-WV", "US-WY"]
+    },
+    "a5719cb0-6527-4e53-b437-142c6be33eaf": {
+      "location_include": ["Europe", "North America"],
+      "location_exclude": null
+    },
+    "48f379d3-3f5d-4608-8e9b-f3a8921a40ed": {
+      "location_include": ["IL", "US"],
+      "location_exclude": null
+    },
+    "cb1a8770-f19a-4cd2-92bc-326f3bde3788": {
+      "location_include": ["CA", "EMEA", "US"],
+      "location_exclude": null
+    },
+    "aa3d36b4-3293-41f8-b243-8e8d3b498563": {
+      "location_include": ["Benelux", "EMEA", "Oceania", "US"],
+      "location_exclude": null
+    },
+    "ada93ac6-0ec9-4acc-88c0-ac697e301078": {
+      "location_include": ["AU", "CA", "CH", "DE", "FR", "GB", "IT", "JP", "LU", "NL", "SG", "US"],
+      "location_exclude": null
+    },
+    "ccb00e55-25ae-43e4-8203-59917f7e3889": {
+      "location_include": ["US-CA", "US-NY", "US-TX"],
+      "location_exclude": null
+    },
+    "3c589ef4-3273-4715-bea1-785cadfe06db": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "5d3d89cb-5a97-4905-ad4c-1989e25afe3d": {
+      "location_include": ["All"],
+      "location_exclude": ["AE", "EG", "IQ", "IR", "LB", "OM", "SA", "YE"]
+    },
+    "69806c8b-2ffe-4e3e-af65-0071e530f91f": {
+      "location_include": ["Europe", "GB", "North America"],
+      "location_exclude": null
+    },
+    "4709201d-3128-4976-82e6-cec6e9c144d3": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "356e9904-30a5-41a5-b2e0-2c385bf494be": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "91e17e3d-0ab1-410f-9bf3-077aeb7d5f67": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "b9b2c87b-a7ca-4297-9df5-ce07f7d677d3": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "8ee5158d-19f7-4b04-b3a4-048e76c14b4b": {
+      "location_include": ["GB", "IL", "North America"],
+      "location_exclude": ["Asia"]
+    },
+    "afdaa5bf-2449-40d4-b998-3c26ce59200b": {
+      "location_include": ["US-AL", "US-AR", "US-IA", "US-IL", "US-IN", "US-KY", "US-LA", "US-MI", "US-MS", "US-OH", "US-TN", "US-TX"],
+      "location_exclude": null
+    },
+    "24902482-5d12-4da0-9f56-c3b64a62e37f": {
+      "location_include": ["AT", "BE", "Benelux", "BG", "CH", "CZ", "DACH", "DE", "DK", "ES", "Europe", "FI", "FR", "GB", "GR", "HU", "IE", "IS", "LT", "LU", "NL", "NO", "Nordics", "PL", "PT", "RO", "SE"],
+      "location_exclude": null
+    },
+    "efa743d9-1502-4ae7-a075-1fd9a7ec6190": {
+      "location_include": ["North America", "US"],
+      "location_exclude": null
+    },
+    "2b2a4716-b10a-453b-ab00-fc216775d362": {
+      "location_include": ["AU", "CA", "Europe", "MX", "North America", "US", "ZA"],
+      "location_exclude": null
+    },
+    "a50b93f7-9620-45ba-845f-9e01c500d0e2": {
+      "location_include": ["Europe", "GB", "North America"],
+      "location_exclude": null
+    },
+    "57307fe9-4d40-47e3-b016-9a2b19bdbbb0": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "5f591b27-fde3-456d-8acf-a191a0d1082e": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "39d6dfa2-7512-40f0-9efd-5ce25d502eff": {
+      "location_include": ["CA", "North America", "US"],
+      "location_exclude": ["MX"]
+    },
+    "fca84750-7492-4234-8f80-7ed183dd2cac": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "be32a86d-1963-45f1-ad63-b3146c0fd446": {
+      "location_include": ["AL", "AT", "BA", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "GR", "HR", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "XK"],
+      "location_exclude": null
+    },
+    "1e1a0de4-a789-40fe-83c7-431d69d5c5ca": {
+      "location_include": ["AU", "CA", "CH", "DE", "FR", "GB", "JP", "LU", "SG", "US", "US-FL", "US-TX"],
+      "location_exclude": null
+    },
+    "0fcb6485-dbcb-45b2-9bb6-54e20f0ed142": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "87bb9e24-c527-4dc4-8154-01a9a511ed6f": {
+      "location_include": ["US"],
+      "location_exclude": null
+    },
+    "c7c20772-38ed-493d-96c3-b31015b10e10": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "edf7da59-aa7b-4bfb-bbcd-85996e5aadf9": {
+      "location_include": ["APAC", "Asia", "DACH", "Europe", "North America", "Oceania"],
+      "location_exclude": null
+    },
+    "be7be26f-d2e5-43ec-8ac8-3e7ca1b65273": {
+      "location_include": ["US", "US-AK", "US-AZ", "US-CA", "US-CO", "US-HI", "US-ID", "US-MT", "US-NM", "US-NV", "US-OR", "US-UT", "US-WA", "US-WY"],
+      "location_exclude": null
+    },
+    "aa1e9b1a-d201-4f7f-9cea-7c154f7b99e8": {
+      "location_include": ["Europe", "North America"],
+      "location_exclude": null
+    },
+    "3fb32e10-44d7-4995-b012-220e52ba0b89": {
+      "location_include": ["US", "US-CT", "US-MA", "US-NJ", "US-NY", "US-PA"],
+      "location_exclude": null
+    },
+    "6d36f9e0-18c8-4861-89fd-fef8a8b79f49": {
+      "location_include": ["Europe", "IL", "North America"],
+      "location_exclude": null
+    },
+    "df8f10b1-19a6-4477-829c-432c635ab521": {
+      "location_include": ["AT", "BE", "CH", "CZ", "DE", "DK", "EE", "FI", "HU", "IS", "LI", "LT", "LU", "LV", "NL", "NO", "PL", "RO", "SE", "SI", "SK"],
+      "location_exclude": null
+    },
+    "2cdd8489-bee0-4ade-a3a7-b8654206203d": {
+      "location_include": ["Europe"],
+      "location_exclude": null
+    },
+    "616049a2-acf9-4d5f-83a2-4a23c2cb9cdf": {
+      "location_include": ["GB", "US"],
+      "location_exclude": null
+    },
+    "160c7937-e9a3-4e02-ae03-9b87cc65be03": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "1b00386a-cc00-4dac-8ff2-4402dd4b8812": {
+      "location_include": ["APAC", "Asia", "DACH", "EMEA", "North America"],
+      "location_exclude": null
+    },
+    "ea34d25c-3840-44ec-8723-becfaef0ec0a": {
+      "location_include": ["Europe", "GB", "IL", "US"],
+      "location_exclude": null
+    },
+    "4518e93c-f12e-4922-a2e0-3e28c2059530": {
+      "location_include": ["IL", "North America", "US"],
+      "location_exclude": null
+    },
+    "923d3745-323d-47d5-bc50-044a91a45b00": {
+      "location_include": ["US"],
+      "location_exclude": null
+    },
+    "1cfb19e4-417a-4d5e-a319-8fd0bc37cd96": {
+      "location_include": ["US", "US-AK", "US-AZ", "US-CA", "US-CO", "US-HI", "US-ID", "US-MT", "US-NM", "US-NV", "US-OR", "US-UT", "US-WA", "US-WY"],
+      "location_exclude": null
+    },
+    "d9b4142f-4e30-47ae-9702-54a0803a5a50": {
+      "location_include": ["GB", "IL", "North America"],
+      "location_exclude": ["Asia"]
+    },
+    "c4542aab-24e4-431f-a438-72d22b130682": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "3cfccfc6-08c7-45a8-8bd3-7a954ad946ec": {
+      "location_include": ["AU", "US"],
+      "location_exclude": null
+    },
+    "6d69ee7a-9e3b-49b9-99a4-96fe5ffeffb3": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "f42e7328-1cb8-43a2-ad08-008b0a493db4": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "1776a737-8794-476c-aad6-7004dc4e64f5": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "6fabfb54-9c90-4910-8d07-0dddef15384c": {
+      "location_include": ["All"],
+      "location_exclude": ["EG", "IQ", "IR", "LB", "OM", "YE"]
+    },
+    "11008ab0-c90a-4a3e-9163-b09e4d4336e0": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "e0d5d905-d9dd-446e-89e4-6ac899155e3f": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "aecbce84-80cb-46fb-a2f0-9b0f488871f1": {
+      "location_include": ["CA", "CH", "DE", "FR", "GB", "US"],
+      "location_exclude": null
+    },
+    "6a5ae56c-628f-40a4-80ef-af6436f91fba": {
+      "location_include": ["EMEA", "GB", "JP", "KR", "SG", "US"],
+      "location_exclude": null
+    },
+    "8a7382b8-76b6-4796-9619-d34fa7f45590": {
+      "location_include": ["Europe", "IL", "North America"],
+      "location_exclude": null
+    },
+    "63728661-b654-48a7-8b5a-091c7d382b03": {
+      "location_include": ["CA", "GB", "North America"],
+      "location_exclude": null
+    },
+    "79eefa6d-79f0-4613-840e-3afbb1115bb6": {
+      "location_include": ["AU", "Europe", "North America", "NZ"],
+      "location_exclude": null
+    },
+    "258ef13a-4436-42de-a5ab-ff0d7e55bbe3": {
+      "location_include": ["EMEA", "North America", "US"],
+      "location_exclude": null
+    },
+    "9a270f04-6bc6-46f8-b6ea-440916657600": {
+      "location_include": ["AL", "AT", "AZ", "BA", "BE", "Benelux", "BG", "CH", "CY", "DACH", "DE", "DK", "EE", "ES", "Europe", "FI", "FR", "GR", "HR", "HU", "IE", "IS", "IT", "KG", "LT", "LU", "LV", "MK", "MT", "NL", "NO", "Nordics", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "UZ"],
+      "location_exclude": ["GB"]
+    },
+    "2c9a076d-a54e-4c35-9125-23f41f760b1c": {
+      "location_include": ["AT", "CH", "CZ", "DE", "EE", "HU", "LI", "LT", "LU", "LV", "PL", "RO", "SI", "SK"],
+      "location_exclude": null
+    },
+    "a570dea9-f6e1-4abe-96cd-c134ac7dd34f": {
+      "location_include": ["North America", "US"],
+      "location_exclude": null
+    },
+    "0547e8f6-ee91-4c70-ba80-c4e01d8388a4": {
+      "location_include": ["North America", "US", "US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT"],
+      "location_exclude": null
+    },
+    "5c0fe034-ac9f-44d4-944a-a977b9a0ae61": {
+      "location_include": ["EMEA", "GB", "JP", "KR", "North America", "SG", "US"],
+      "location_exclude": null
+    },
+    "d2e92021-3fd6-4022-bb8c-88aa6a559c3a": {
+      "location_include": ["US", "US-AK", "US-AZ", "US-CA", "US-CO", "US-HI", "US-ID", "US-MT", "US-NM", "US-NV", "US-OR", "US-UT", "US-WA", "US-WY"],
+      "location_exclude": null
+    },
+    "70534e58-0179-41e4-b8c6-fff40fe2e527": {
+      "location_include": ["GB", "IT", "Nordics"],
+      "location_exclude": null
+    },
+    "15e875fc-b9ae-4c3f-a999-3b54e2ec39d4": {
+      "location_include": ["Europe"],
+      "location_exclude": null
+    },
+    "f1d468c6-777a-44d4-b546-fb5cb449c9ab": {
+      "location_include": ["CA", "GA", "US", "US-CT", "US-DE", "US-FL", "US-MA", "US-MD", "US-ME", "US-NC", "US-NH", "US-NJ", "US-NY", "US-PA", "US-RI", "US-SC", "US-TN", "US-VA", "US-VT", "US-WA", "US-WV"],
+      "location_exclude": null
+    },
+    "322e6af3-c828-4235-8362-f91af9328dfe": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "d4977cc6-2926-4317-9744-449c0110f2e2": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "1034a3cc-1a25-47e9-a7cd-d299e270783f": {
+      "location_include": ["Europe", "GB", "IL", "US"],
+      "location_exclude": null
+    },
+    "ddb982cc-a6dd-4728-9998-3d74934c2236": {
+      "location_include": ["US-IA", "US-IL", "US-IN", "US-KS", "US-KY", "US-MI", "US-MN", "US-MO", "US-ND", "US-NE", "US-OH", "US-PA", "US-SD", "US-WI"],
+      "location_exclude": null
+    },
+    "993449e9-b215-4efa-8ab3-74bdc949fe0c": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "40301f66-db64-4374-a7ff-479ab0559056": {
+      "location_include": ["US", "US-AR", "US-CO", "US-CT", "US-DE", "US-FL", "US-KS", "US-MA", "US-MD", "US-ME", "US-MN", "US-MT", "US-ND", "US-NE", "US-NH", "US-NJ", "US-NM", "US-OK", "US-PA", "US-RI", "US-SD", "US-VT", "US-WY"],
+      "location_exclude": ["US-AK", "US-AL", "US-AZ", "US-CA", "US-GA", "US-HI", "US-IA", "US-ID", "US-IL", "US-IN", "US-KY", "US-LA", "US-MI", "US-MO", "US-MS", "US-NC", "US-NV", "US-NY", "US-OH", "US-OR", "US-SC", "US-TN", "US-TX", "US-UT", "US-VA", "US-WA", "US-WI", "US-WV"]
+    },
+    "bba2ff16-16f7-41f6-b9ca-269272bcba20": {
+      "location_include": ["North America"],
+      "location_exclude": ["US-AL", "US-AR", "US-FL", "US-GA", "US-IA", "US-IL", "US-IN", "US-KS", "US-KY", "US-LA", "US-MA", "US-MI", "US-MN", "US-MS", "US-NC", "US-ND", "US-NE", "US-OK", "US-SC", "US-SD", "US-TX", "US-WI", "US-WV"]
+    },
+    "746dd26a-9454-47b9-8df4-7b4c8e14f515": {
+      "location_include": ["GB", "US"],
+      "location_exclude": null
+    },
+    "be3bd455-3858-4d5f-b8e9-1895c51e50e7": {
+      "location_include": ["US"],
+      "location_exclude": null
+    },
+    "c7eab29b-f34d-49b6-9307-c7f567e25887": {
+      "location_include": ["All"],
+      "location_exclude": ["Africa", "APAC", "APJ", "Asia", "DACH", "Oceania", "South America"]
+    },
+    "31cfb75f-8623-4c57-95d6-c511bae27dcd": {
+      "location_include": ["US", "US-CT", "US-MA", "US-NJ", "US-NY", "US-PA"],
+      "location_exclude": null
+    },
+    "f6669c4c-2d57-4562-a8f0-bbebb3123938": {
+      "location_include": ["US", "US-CT", "US-MA", "US-NJ", "US-NY", "US-PA"],
+      "location_exclude": null
+    },
+    "bce8ed7d-9171-425b-a8c2-3bb3683fb8e4": {
+      "location_include": ["GB", "North America", "South America", "US"],
+      "location_exclude": null
+    },
+    "72ad5dd8-96e0-4911-b523-2aa248c6ef1c": {
+      "location_include": ["APAC", "APJ", "Asia", "AU", "Benelux", "DACH", "EMEA", "Europe", "Nordics", "North America", "NZ", "South America"],
+      "location_exclude": ["Africa", "IL", "MENA", "SA", "TR"]
+    },
+    "43e5003a-d0c7-46e8-a474-ee0a8fa4281c": {
+      "location_include": ["All"],
+      "location_exclude": null
+    },
+    "46485662-fc69-4582-9d8c-48e13946c202": {
+      "location_include": ["CA", "GB", "North America"],
+      "location_exclude": null
+    },
+    "ca0e19e7-8990-41d4-8d0b-41200662c703": {
+      "location_include": ["AU", "CA", "Europe", "MX", "North America", "US"],
+      "location_exclude": null
+    },
+    "b73c6012-36cb-42b8-9926-fc2266ea80d2": {
+      "location_include": ["US", "US-CT", "US-MA", "US-NJ", "US-NY", "US-PA"],
+      "location_exclude": null
+    },
+    "6efc0613-04ce-42fe-9b62-1439eacf945b": {
+      "location_include": ["North America"],
+      "location_exclude": null
+    },
+    "fc2c252c-3af4-4a40-aa0d-0dc812b55c41": {
+      "location_include": ["CA", "US"],
+      "location_exclude": null
+    },
+    "58153f3c-eaec-437d-baf2-d7dd512032bb": {
+      "location_include": ["North America", "US"],
+      "location_exclude": null
+    },
+    "69612c42-1f11-4f37-84c1-aa894ee43bc7": {
+      "location_include": ["DACH"],
+      "location_exclude": null
+    }
+  }
