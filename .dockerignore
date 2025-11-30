@@ -18,10 +18,6 @@ ENV/
 *.swp
 *.swo
 
-# Ignore documentation
-README.md
-*.md
-
 # Ignore test files
 tests/
 *.test.*
